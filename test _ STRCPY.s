@@ -1,6 +1,5 @@
 .global
-start
-_
+start_
 .text
 start:
 
